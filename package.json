@@ -1,0 +1,5 @@
+"homepage": "https://h3ides.github.io/ton-dapp",
+"scripts": {
+   "predeploy": "npm run build",
+   "deploy": "gh-pages -d dist"
+}
